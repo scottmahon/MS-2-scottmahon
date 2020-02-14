@@ -1,0 +1,15 @@
+---
+title: "MS-2.Rmd"
+author: "Scott"
+date: "2/9/2020"
+output: html_document
+---
+
+Project 1: Rucha Joshi, an Analysis of The Office
+
+I think Rucha's project is really good. I can tell that she enjoys The Office so she probably had a really good time working on it, which is always a bonus -- this is something I am trying to do with my project so that I am always excited to work on it. One positive is that there is a lot of data and it was used very well. We can clearly track the relevance of lines throughout season ans by character. But we can also see how characters' emotions change and how characters' relationships with each other change over time. I think her own comments, analyzing the data are especially strong because it takes her data and visualizations and draws solid conclusions from it, which is one of the most important things to do. One negative, is that I think this might be a difficult presentation to talk about in a potential job or internship interview. While it requires just as much effort, knowledge, and work as many other projects, it might seem a bit unprofessional to talk extensively about a project about a tv show in a business formal setting. 
+
+Project 2: Joshua Pan Dunk on Some Stats
+
+I decided to look at this project because it looks into basketball data, and I'm thinking of doing my project on the MLB. This presentation does a very good job of incorporating a lot of different relationships. In his project, he is able to create many graphs comparing position and points, number of players at each position by year, number of field goals shot by position, etc. and the graphs are all very clear and interesting to look at. I think the fun facts page is a particularly fun and interesting page to include! One negative is that I think the analysis of the data is lacking. It seems as though he tried to find conclusions about some of the relationships and didn't find as strong of correlations as expected, but I am looking at a couple of his graphs where I feel like there is something worth mentioning as analysis but none is given. This is definitely important for me to note so that I can try to explain the key takeaways from my project the best that I can. 
+
